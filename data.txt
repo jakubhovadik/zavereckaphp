@@ -1,0 +1,5 @@
+Ondřej|Čermák|19|Frýdek-Místek|o.cermak@gmail.com|778657431|Ano|Jawa Pionýr|pokročilý|Ano
+Jan|Nekonečný|17|Havířov|jan.nekonecny@gmail.com|702415655|Ano|Babetta 210|technik|Ano
+Jakub|Cihlář|20|Ostrava|jakub.cihlar20@gmail.com|770500834|Ne|Jawa 250|začátečník|Ano
+Stanislav|Srandy|41|Uherské Hradiště|standa.sranda@seznam.cz|723001923|Ne|Jawa 500|technik|Ano
+Štěpán|Smejkal|14|Havířov|stepa.smejky@gmail.com||Ne|Babetta 210|učí se|Ne
